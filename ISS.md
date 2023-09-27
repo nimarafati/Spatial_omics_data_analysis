@@ -29,7 +29,7 @@ There are different algorithms:
 - skimage  
 
 ## CARE: content-aware image restoration  (instead of deconvultion) 
-**Aim::**  Post-processing step to improve the quality of the picture to be sharper and more in focus. 
+**Aim:**  Post-processing step to improve the quality of the picture to be sharper and more in focus. 
 CARE similar to deconvolution is commonly used for image restoration but it is faster.  This method relies on machine learning techniques to learn from large datasets and generalize the restoration process. In short the steps are:
 - Identifying distortions (blur, noise, or artefacts)    
 - Estimating undistotred version of original image by advanced algorithms (machine learning techniques)  
