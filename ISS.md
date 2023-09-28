@@ -4,7 +4,7 @@
 **Approach:**  Removing (10%) overlap between imaging FOV (Field of View) by image stitching and retiling of stiched images.  For cycle alignment and stiching **ASHLAR** is used.  
 **Tools:** ASHLAR.  
 ## Deconvolution (deblurring)  
-**Aim:** Post-processing step to improve the quality of the picture to be sharper and more in focus. 
+**Aim:** Post-processing step to improve the quality of the picture to be sharper and more in focus.   
 **Approach:** The collecetd image from the sample is distotred or convoluted or it may appear blurry/ out of focus. The reason behind getting blurry images is due to the fact that lights spreads out or becomes diffracted when passes from the slide/sample through the optical path of the microscope.  
 By knowing the imaging system, we can model light diffraction. 
 There are different algorithms:
