@@ -87,5 +87,5 @@ In brief: One can analyse the data without segmentation.
 *Note: DAPI stains nuclei while most mRNA is in the cytoplasm*  
 
 References:  
-NBIS Spatial course  
+[NBIS Spatial omics course](https://uppsala.instructure.com/courses/58516/pages/schedule)  
 [Elen Bochard weblog](https://blog.biodock.ai/image-deconvolution/)  
